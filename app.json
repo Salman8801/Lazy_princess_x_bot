@@ -24,23 +24,23 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "20077906"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "da36369fbe92c05fd924331af2615e73"
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space.",
-            "value": ""
+            "value": "-1001814749004"
         },
         "ADMINS": {
             "description": "Username or ID of Admin. Separate multiple Admins by space.",
-            "value": ""
+            "value": "5403432874"
         },
         "AUTH_USERS": {
             "description": "Username or ID of users to give access of inline search. Separate multiple users by space.\nLeave it empty if you don't want to restrict bot usage.",
-            "value": "",
+            "value": "5403432874",
             "required": false
         },
         "FORCES_SUB": {
@@ -70,7 +70,7 @@
         },
         "AUTH_GROUPS": {
             "description": "ID of groups which bot should work as autofilter, bot can only work in thease groups. If not given , bot can be used in any group.",
-            "value": "",
+            "value": "-1001514605372",
             "required": false
         },
         "DATABASE_2": {
@@ -103,7 +103,7 @@
         },
         "ADMIN_ID": {
             "description": "Control BroadCast",
-            "value": "",
+            "value": "5403432874",
             "required": true
         },
         "BROADCAST_CHANNEL": {
